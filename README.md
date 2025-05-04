@@ -51,7 +51,7 @@ Email: ritikanand.02062000@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/ritik-anand-063b36313/
 
-GitHub: github.com/RitikAnand02
+GitHub: https://github.com/RitikAnand02
 
 ---
 
