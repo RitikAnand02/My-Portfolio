@@ -44,16 +44,6 @@ portfolio/
 
 ---
 
-## 🚀 Getting Started
-
-To run the project locally:
-
-```bash
-git clone https://github.com/RitikAnand02/My-Portfolio.git
-cd portfolio
-
----
-
 📧 Contact
 If you'd like to connect or hire me:
 
